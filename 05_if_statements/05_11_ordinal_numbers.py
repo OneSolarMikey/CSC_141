@@ -8,17 +8,5 @@ for number in numbers:
         print(f'{number}nd')
     elif number == 3:
         print(f'{number}rd')
-    elif number == 4:
-        print(f'{number}th')
-    elif number == 5:
-        print(f'{number}th')
-    elif number == 6:
-        print(f'{number}th')
-    elif number == 7:
-        print(f'{number}th')
-    elif number == 8:
-        print(f'{number}th')
-    elif number == 9:
-        print(f'{number}th')
-    elif number == 10:
+    else:
         print(f'{number}th')

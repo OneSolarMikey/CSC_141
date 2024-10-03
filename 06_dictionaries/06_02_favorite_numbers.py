@@ -6,7 +6,7 @@ fav_num = {
     'Alyssa': 6, 
     'Preston': 45,  
     'Mac': 10,
-}
+    }
 
 # Printing Kenny's favorite number.
 print(f"Kenny's favorite number is {fav_num['Kenny']}")

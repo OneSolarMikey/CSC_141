@@ -3,9 +3,9 @@
 user_info = {
     'first_name': 'Kenny', 
     'last_name': 'Kerby', 
-    'age': '22', 
+    'age': 22, 
     'city': 'Pottsville',
-}
+    }
 
 # Printing first_name.
 print(user_info['first_name'])

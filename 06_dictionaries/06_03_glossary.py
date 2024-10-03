@@ -6,7 +6,7 @@ definition = {
     'string':"A series of characters inside quotes",
     'for loop':"Used to loop through a list",
     'dictionary':"A collection of key-value pairs",
-}
+    }
 
 # Printing tuple definition.
 print(f"Tuple: {definition['tuple']}.")
